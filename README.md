@@ -59,6 +59,7 @@ Overall, my diverse skill set makes me a valuable asset to any organization, as 
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](www.youtube.com/c/SDCTechCasteeve?sub_confirmation=1)
