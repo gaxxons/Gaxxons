@@ -12,7 +12,7 @@ As an IT Helpdesk Technician, I have experience in providing technical support t
 
 Overall, my diverse skill set makes me a valuable asset to any organization, as I am capable of working on various projects and can easily adapt to new technologies and environments.
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Coursecareer Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prereparation and Installation](https://github.com/gaxxons/osticket-prep)
