@@ -4,11 +4,11 @@
 
 As a multi-skilled professional, I have experience as a Web Developer, System and Security Administrator, and IT Helpdesk Technician.
 
-As a Web Developer, I have worked on a range of projects, from creating simple landing pages to developing complex web applications. My skills include HTML, CSS, Python, Django, PHP, Laravel and MySQL. I am familiar with several content management systems (CMS) such as WordPress, Joomla, and Drupal, and have experience with front-end frameworks like Bootstrap and Foundation. I have also worked with various e-commerce platforms such as Shopify and WooCommerce.
+As a Web Developer, I have worked on a range of projects, from creating simple landing pages to developing complex web applications. My skills include HTML, CSS, Python, Django, PHP, Laravel, Flutter and MySQL. I am familiar with several content management systems (CMS) such as WordPress, Joomla, and Drupal, and have experience with front-end frameworks like Bootstrap and Foundation. I have also worked with various e-commerce platforms such as Shopify and WooCommerce.
 
 As a System and Security Administrator, I have experience in maintaining and securing servers, networks, and systems. I have worked with both Windows and Linux servers, and have a solid understanding of Active Directory, DNS, DHCP, and LDAP. I have also configured firewalls, intrusion detection systems, and other security tools to ensure the safety of the network and systems. I am familiar with several virtualization technologies, such as VMware and Hyper-V, and have experience with cloud services such as Amazon Web Services (AWS) and Microsoft Azure.
 
-As an IT Helpdesk Technician, I have experience in providing technical support to end-users. I have experience in troubleshooting hardware and software issues, and configuring and maintaining peripherals such as printers, scanners, and mobile devices. I have also provided technical support to remote users, and have experience in using remote access tools such as TeamViewer and Remote Desktop.
+As an IT Helpdesk Technician, I have experience in providing technical support to end-users. I have experience in troubleshooting hardware and software issues, and configuring and maintaining peripherals such as printers, scanners, and mobile devices. I have also provided technical support to remote users, and have experience in using remote access tools such as TeamViewer, Remote Desktop, and osTicket System.
 
 Overall, my diverse skill set makes me a valuable asset to any organization, as I am capable of working on various projects and can easily adapt to new technologies and environments.
 
@@ -48,7 +48,7 @@ Overall, my diverse skill set makes me a valuable asset to any organization, as 
 
 #
 
-### 📺 Hobby YouTube Videos
+### 📺  YouTube Hobby Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![AI's Most Insane Month EVER!!](https://ytcards.demolab.com/?id=4_frwLFlOt8&title=AI%27s+Most+Insane+Month+EVER%21%21&lang=en&timestamp=1680786003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=693 "AI's Most Insane Month EVER!!")]()
@@ -77,4 +77,5 @@ A CompTIA Security + and AWS Certified Cloud Practitioner. Well-versed in physic
 
 [Projects]: https://www.solitechs.com/
             https://www.eltarah.com/
+            https://prestigesuitehotel.com/
 [website]: https://sdcomprotech.com/
