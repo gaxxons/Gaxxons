@@ -1,6 +1,6 @@
 # 🏄‍♂️ Gaxxons(Stephen)
 
-**`Web Developer/System and Secuirity administrator/IT HelpDesk Technician`**
+**`Web Developer/System and Secuirity administrator/IT Helpdesk Technician`**
 
 As a multi-skilled professional, I have experience as a Web Developer, System and Security Administrator, and IT Helpdesk Technician.
 
