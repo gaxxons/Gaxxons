@@ -2,7 +2,16 @@
 
 **`Web Developer/System and Secuirity administrator/IT HelpDesk Technician`**
 
-A CompTIA Security + and AWS Certified Cloud Practitioner. Well-versed in physical and remote analysis with strong critical thinking, communication, and people skills. A skilled System and Security administrator with expertise in Help Desk Suppoort,  viruses, and a wide range of vulnerabilities and threats. Able to thrive in fast-paced and challenging environments where accuracy and efficiency matter. Results-driven IT professional with notable success in planning, analysis, and implementation of security initiatives.
+As a multi-skilled professional, I have experience as a Web Developer, System and Security Administrator, and IT Helpdesk Technician.
+
+As a Web Developer, I have worked on a range of projects, from creating simple landing pages to developing complex web applications. My skills include HTML, CSS, Python, Django, PHP, Laravel and MySQL. I am familiar with several content management systems (CMS) such as WordPress, Joomla, and Drupal, and have experience with front-end frameworks like Bootstrap and Foundation. I have also worked with various e-commerce platforms such as Shopify and WooCommerce.
+
+As a System and Security Administrator, I have experience in maintaining and securing servers, networks, and systems. I have worked with both Windows and Linux servers, and have a solid understanding of Active Directory, DNS, DHCP, and LDAP. I have also configured firewalls, intrusion detection systems, and other security tools to ensure the safety of the network and systems. I am familiar with several virtualization technologies, such as VMware and Hyper-V, and have experience with cloud services such as Amazon Web Services (AWS) and Microsoft Azure.
+
+As an IT Helpdesk Technician, I have experience in providing technical support to end-users. I have experience in troubleshooting hardware and software issues, and configuring and maintaining peripherals such as printers, scanners, and mobile devices. I have also provided technical support to remote users, and have experience in using remote access tools such as TeamViewer and Remote Desktop.
+
+Overall, my diverse skill set makes me a valuable asset to any organization, as I am capable of working on various projects and can easily adapt to new technologies and environments.
+
 
    <p align="left">
       <a href="https://www.linkedin.com/in/stephen-gyamfi-donkor/">
@@ -63,8 +72,8 @@ A CompTIA Security + and AWS Certified Cloud Practitioner. Well-versed in physic
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨‍💻 Stephen's Portfolio</h3></summary>
+A CompTIA Security + and AWS Certified Cloud Practitioner. Well-versed in physical and remote analysis with strong critical thinking, communication, and people skills. A skilled System and Security administrator with expertise in Help Desk Suppoort,  viruses, and a wide range of vulnerabilities and threats. Able to thrive in fast-paced and challenging environments where accuracy and efficiency matter. Results-driven IT professional with notable success in planning, analysis, and implementation of security initiatives.
 
 [Projects]: https://www.solitechs.com/
             https://www.eltarah.com/
