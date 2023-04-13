@@ -24,10 +24,10 @@ Overall, my diverse skill set makes me a valuable asset to any organization, as 
 
 <h2>🤳Connect with me:</h2>
 
-[linkedin]: https://www.linkedin.com/in/stephen-gyamfi-donkor/
+[linkedin]: https://www.linkedin.com/in/stephen-gd/
 
    <p align="left">
-      <a href="https://www.linkedin.com/in/stephen-gyamfi-donkor/">
+      <a href="https://www.linkedin.com/in/stephen-gd/">
          <img alt="Linked" title="My LinkedIn Profile" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%80D2E5&label=CONNECT&logo=video&logoColor=white&style=for-the-badge&labelColor=2986CC"/></a> 
       <a href="https://www.youtube.com/@SDCTechCasteeve">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
